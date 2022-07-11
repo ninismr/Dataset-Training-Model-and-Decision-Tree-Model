@@ -5,4 +5,6 @@ The first project/lab practice used gold_karat.csv is aimed to do a dataset trai
 
 The second project/lab challenge used titanic.csv is aimed to do a dataset decision tree model to predict the Titanic passenger's survival based on certain parameters such as (Passenger's Class, Sex/Gender, Age, and Fare).
 
+For more detail about this project, you may download and read the report that I have already attached within this repository. 
+
 ![](titanic.png)
