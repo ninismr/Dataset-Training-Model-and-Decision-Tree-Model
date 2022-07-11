@@ -4,3 +4,5 @@ These are projects in my Coding and Big Data course. These projects are aims to 
 The first project/lab practice used gold_karat.csv is aimed to do a dataset training model. Training is a phase In Machine Learning that purposes for the machine learn the algorithm from data, we basically try to create a model to predict on the test data. So, we use the training data to fit the model and testing data to test it. 
 
 The second project/lab challenge used titanic.csv is aimed to do a dataset decision tree model to predict the Titanic passenger's survival based on certain parameters such as (Passenger's Class, Sex/Gender, Age, and Fare).
+
+![](titanic.png)
