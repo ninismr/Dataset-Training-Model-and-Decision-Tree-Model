@@ -1,4 +1,4 @@
-# Dataset Training Model and Decision Tree Model
+# Dataset Training and Decision Tree Model using Python Programming Language
 These are projects in my Coding and Big Data course. These projects are aims to do a dataset training model and decision tree model using a python programming language with several libraries such as pandas, matplotlib, and scikit-learn. 
 
 The first project used gold_karat.csv is aimed to do a dataset training model. Training is a phase In Machine Learning that purposes for the machine learn the algorithm from data, we basically try to create a model to predict on the test data. So, we use the training data to fit the model and testing data to test it. 
